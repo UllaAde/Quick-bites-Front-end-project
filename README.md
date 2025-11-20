@@ -14,3 +14,5 @@
 ## About preview 
 ![Image 19-11-2025 at 17 54](https://github.com/user-attachments/assets/c17f05e7-19b6-4dfa-964e-197eb1f9717f)
 
+## Disclaimer
+Animation snippet and recipe card snippet were taken from a public: https://freefrontend.com/ https://codepen.io/ Certain parts were adapted for this project.
